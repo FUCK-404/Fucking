@@ -1,6 +1,12 @@
 print() 
 
-import Tst Tst.bd()
+import Tst
+
+
+
+
+
+ Tst.bd()
 
 
 
