@@ -1,2 +1,0 @@
-import Tst
-Tst.pak()
