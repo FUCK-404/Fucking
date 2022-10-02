@@ -1,10 +1,10 @@
-else() 
+print() 
 
 import Tst
 
 Tst.bd()
 
-else()
+print()
 
 import Tst
 
