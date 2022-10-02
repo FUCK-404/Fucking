@@ -1,11 +1,9 @@
-print() 
+ 
 
-import Tst
+import Tst 
 
 Tst.bd()
 
-print()
 
-import Tst
 
-Tst.pak()
+
