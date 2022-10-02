@@ -2,11 +2,7 @@ print()
 
 import Tst
 
-
-
-
-
- Tst.bd()
+Tst.bd()
 
 
 
