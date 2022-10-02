@@ -1,9 +1,10 @@
-else 
+else() 
 
 import Tst
 
 Tst.bd()
-else
+
+else()
 
 import Tst
 
